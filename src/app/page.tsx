@@ -17,7 +17,7 @@ export default function Home() {
               </h1>
             </div>
             <Link
-              href="https://github.com/Ionfinisher/kendo-ai-pricing-grid-gen"
+              href="https://github.com/Ionfinisher/intelligrid.git"
               target="_blank"
             >
               <Button themeColor={"primary"} svgIcon={codeIcon}></Button>
